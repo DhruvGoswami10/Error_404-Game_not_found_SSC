@@ -18,6 +18,6 @@ By using misleading obstacles, fake checkpoints, gravity shifts, and "helpful" i
 - Created in Swift Playgrounds 4.5
 
 # DEMO
-Below is the GIF, for full video click on the link: [FULL VIDEO]()
+Below is the GIF, for full video click on the link: [FULL VIDEO](https://x.com/dhruv_10_/status/1894683009053290782?s=46&t=EmAIHW81LPGE4pjfh4TMTA)
 
 ![ERROR 404: Image not found](404.gif)
