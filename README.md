@@ -20,4 +20,4 @@ By using misleading obstacles, fake checkpoints, gravity shifts, and "helpful" i
 # DEMO
 Below is the GIF, for full video click on the link: [FULL VIDEO]()
 
-(404.gif)
+[ERROR 404: Image not found](404.gif)
